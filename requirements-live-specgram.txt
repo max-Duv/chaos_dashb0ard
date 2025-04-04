@@ -1,0 +1,6 @@
+PyQt6.QtCore import QSize, Qt, QThread, pyqtSignal, QObject, QTimer
+PyQt6.QtWidgets import QApplication, QMainWindow, QGridLayout, QWidget, QSlider, QLabel, QHBoxLayout, QVBoxLayout, QPushButton, QComboBox  
+pyqtgraph as pg
+numpy as np
+time
+signal
